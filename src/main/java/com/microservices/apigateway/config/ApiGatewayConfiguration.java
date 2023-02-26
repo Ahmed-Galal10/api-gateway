@@ -1,4 +1,4 @@
-package com.microservices.apigateway;
+package com.microservices.apigateway.config;
 
 import org.springframework.cloud.gateway.route.Route;
 import org.springframework.cloud.gateway.route.RouteLocator;
